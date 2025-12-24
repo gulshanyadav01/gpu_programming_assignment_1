@@ -154,6 +154,10 @@ make
 make run  # Run with default 7-node sample graph
 ```
 
+### Running in Google Colab
+
+To run this project in Google Colab without local CUDA setup, use the `gpu_programming_assignment_1.ipynb` file. Simply upload it to Colab, enable GPU runtime (Runtime → Change runtime type → GPU), and run all cells.
+
 ---
 
 ## 💡 Usage Examples
